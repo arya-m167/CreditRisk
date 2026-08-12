@@ -1,0 +1,20 @@
+{
+  "baseline_logistic_regression_auc": 0.716,
+  "xgboost_auc": 0.7776,
+  "xgboost_f1": 0.5363,
+  "xgboost_precision": 0.4669,
+  "xgboost_recall": 0.6299,
+  "fairness_false_positive_rate_by_sex": {
+    "male": {
+      "n": 2983,
+      "false_positive_rate": 0.2319
+    },
+    "female": {
+      "n": 4517,
+      "false_positive_rate": 0.1865
+    }
+  },
+  "n_train": 22500,
+  "n_test": 7500,
+  "default_rate_test": 0.2212
+}
