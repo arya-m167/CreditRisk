@@ -63,6 +63,9 @@ such model went near a production lending decision.
 
 ## Running locally
 
+python3 -m venv venv
+source venv/bin/activate
+
 **Backend**
 ```bash
 cd backend

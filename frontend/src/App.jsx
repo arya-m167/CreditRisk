@@ -55,7 +55,7 @@ export default function App() {
           <>
             <h1>Score an applicant</h1>
             <p className="subtitle">
-              Based on Yeh &amp; Lien (2009) — trained on 30,000 Taiwanese credit card accounts
+              Based on Yeh &amp; Lien (2009): Trained on 30,000 Taiwanese credit card accounts
             </p>
             <div className="panel">
               <p className="panel-title">Applicant details</p>

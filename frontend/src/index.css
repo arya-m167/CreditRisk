@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap');
 
 :root {
-  --bg: #0B0E11;
+  --bg: #12171c;
   --panel: #12161B;
-  --panel-2: #171C22;
+  --panel-2: #0b223f;
   --border: #232A31;
   --text: #E8EAED;
   --text-dim: #8B93A0;
@@ -13,7 +13,7 @@
   --medium: #E8A33D;
   --high: #E8543D;
 
-  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-sans: 'Inter', system-ui, times;
   --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
 }
 
